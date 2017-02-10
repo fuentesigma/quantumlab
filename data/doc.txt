@@ -1,0 +1,2 @@
+> this folder contains several numerical experiments
+> you can skip the simulator stage in C++ and just try these in Matlab
