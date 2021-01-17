@@ -1,4 +1,6 @@
-# quantumlab
-quantum simulator of control operations on qubits
+#QuantumLab
+>It is a simulator of quantum operations on two-level quantum systems
 
-> The respository includes an elementary simulator capable to produce transitions on a single qubit subject to different external conditions. Then, the outcomes are visualized via the Bloch sphere. The engine is based in C++, whereas the user can interact with data by means of Matlab's GUI.
+>QL consists of a simple code that emulates the state transition of a single qubit subject to the application of external fields. The code has two dependencies. The engine runs over C while the UI runs over Matlab (Octave). Some data charts are given to serve as examples, but leaving to the user the possibility to use specific data.
+
+>Consult the manual fur further help.
